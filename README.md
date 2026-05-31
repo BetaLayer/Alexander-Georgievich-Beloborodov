@@ -1,10 +1,4 @@
-
-
 # Alexander Georgievich Beloborodov: Biography and Archives
-
-## Table of Contents
-
-# Alexander Georgievich Beloborodov
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -14,7 +8,6 @@
 5. [Romanovs in Yekaterinburg](#romanovs-in-yekaterinburg)
 6. [Socialist construction](#socialist-construction)
 
----
 
 ## Introduction
 
@@ -26,7 +19,6 @@ The left-wing opposition, as you know, lost in the intra-party struggle and its 
 
 We express our great gratitude to our partners: the Documentation Centre of Public Organisations of the Sverdlovsk Region, the State Archives of the Perm Territory, the Russian State Archive of Socio-Political History, the Documentation Centre of Modern History of the Rostov Region, the Russian State Military Historical Archive and the Aleksandrovsk Museum of Local Lore for the materials provided and the assistance provided to us. This is the only way, flipping through the contradictory and difficult pages of our history, can we get closer to a better understanding of our past and present.
 
----
 
 ## Formation. Childhood
 
@@ -52,7 +44,6 @@ In 1903, Alexander completed primary school. Testimony from the 1908 investigati
 > "A. Beloborodov was one of modest and quiet disposition and always behaved well; he finished school as the top student and stood out among his peers in intellectual development."  
 > *(State Archive of Perm Krai, fond 142, inv. 2, file 81, fol. 17 verso.)*
 
----
 
 ## Formation. The start of adulthood
 
@@ -84,7 +75,6 @@ From the memoirs of P.I. Studitov-Parfenov (member of CPSU since 1914):
 > In October 1916, I met Beloborodov at the Lysva Factory, where he worked as an electrician. This work suited him well—he could freely visit all workshops and talk with workers. He always played a leading role, defending workers’ demands with Bolshevik passion and persistence.  
 > *(CDOOSO F. 221 In. 2 F. 786. S. 1)*
 
----
 
 ## Revolution and Civil War
 
@@ -133,7 +123,6 @@ After the capture of Yekaterinburg by the troops of the Czechoslovak Legion, Bel
 > Persons who offer resistance to anything set forth in this mandate shall be held accountable and subjected to the Court of the Revolutionary Tribunal.  
 > *(Mandate of A.G. Beloborodov. April 21, 1919 // Nekrasov V.F. Thirteen Iron People's Commissars – M.: Versty, State Firm Poligrafresursy, 1995. Pp. 101-102.)*
 
----
 
 ## Romanovs in Yekaterinburg
 
@@ -203,7 +192,6 @@ Immediately after the execution, on the morning of 17 July, the Presidium of the
 
 A copy of the telegraph text was lost at the Yekaterinburg telegraph office, and it was later captured by White Army forces, decoded, and first published in N.A. Sokolov's book "The Murder of the Imperial Family."
 
----
 
 ## Socialist construction
 
