@@ -1,0 +1,48 @@
+---
+---
+/* 1. ПЕРЕОПРЕДЕЛЯЕМ ПЕРЕМЕННЫЕ ТЕМЫ (До импорта) */
+$base-font-family: Georgia, "Times New Roman", Times, serif;
+$base-font-size: 16px;
+$text-color: #000000;
+$brand-color: #000000;
+
+/* 2. ЗАГРУЖАЕМ ТЕМУ */
+@import "{{ site.theme }}";
+
+/* 3. ЖЕСТКО МЕНЯЕМ ЦИТАТЫ И ШРИФТЫ (После импорта) */
+
+/* Делаем абсолютно весь текст на сайте черным и Georgia */
+body, .page-content, .post-content, p, h1, h2, h3, h4, h5, h6, li, span, a {
+ font-family: Georgia, "Times New Roman", Times, serif !important;
+ color: #000000 !important;
+}
+
+/* Настраиваем саму коробку цитаты */
+.post-content blockquote,
+.page-content blockquote,
+blockquote {
+ border-left: 4px solid #000000 !important; /* Черная полоса */
+ background-color: transparent !important; /* Без серого фона */
+ padding: 5px 20px !important;
+ margin: 20px 0 !important;
+ font-style: normal !important; /* Убиваем курсив у контейнера */
+}
+
+/* Настраиваем текст внутри цитаты (именно он был серым и косым) */
+.post-content blockquote p,
+.page-content blockquote p,
+blockquote p,
+blockquote em,
+blockquote i {
+ color: #000000 !important; /* Строго черный */
+ font-style: normal !important; /* СТРОГО БЕЗ КУРСИВА */
+ font-family: Georgia, "Times New Roman", Times, serif !important;
+ font-size: 16px !important;
+ line-height: 1.6 !important;
+ margin-bottom: 0 !important;
+}
+
+/* Убираем курсив вообще везде, на всякий случай */
+em, i {
+ font-style: normal !important;
+}
