@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+blockquote {
+ color: #24292e !important;
+ border-left-color: #0366d6 !important;
+ background-color: #f9f9f9;
+ padding: 15px;
+}
