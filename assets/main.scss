@@ -65,3 +65,9 @@ small {
  color: #555 !important;
  font-size: 14px;
 }
+
+/* Прячем шапку и подвал minima — там дублируется имя (бренд, навигация, футер) */
+.site-header,
+.site-footer {
+ display: none !important;
+}

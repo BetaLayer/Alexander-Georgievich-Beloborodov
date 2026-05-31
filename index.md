@@ -4,8 +4,7 @@ title: Alexander Georgievich Beloborodov
 ---
 
 <p align="center">
-<img src="assets/images/beloborodov-narkom-1927.jpg" alt="A.G. Beloborodov" width="600"><br>
-<small>A.G. Beloborodov, People's Commissar of Internal Affairs of the RSFSR, at his work desk. 1927.</small>
+<img src="assets/images/beloborodov-narkom-1927.jpg" alt="" width="600">
 </p>
 
 ## Table of Contents
@@ -34,18 +33,15 @@ We express our great gratitude to our partners: the Documentation Centre of Publ
 ## Formation. Childhood
 
 <p align="center">
-<img src="assets/images/birth-register-1891.jpg" alt="Birth register, 1891" width="600"><br>
-<small>Record of A.G. Beloborodov's birth in the parish register, 1891.</small>
+<img src="assets/images/birth-register-1891.jpg" alt="" width="600">
 </p>
 
 <p align="center">
-<img src="assets/images/alexandrovsky-factory.jpg" alt="Alexandrovsky Factory" width="600"><br>
-<small>The Alexandrovsky Factory, Beloborodov's birthplace.</small>
+<img src="assets/images/alexandrovsky-factory.jpg" alt="" width="600">
 </p>
 
 <p align="center">
-<img src="assets/images/beloborodov-youth.jpg" alt="Beloborodov in youth" width="360"><br>
-<small>A.G. Beloborodov in his youth.</small>
+<img src="assets/images/beloborodov-youth.jpg" alt="" width="360">
 </p>
 
 > I have already spoken of the damp mines and ore pits. The factory was somewhat better, yet still far from good. The toll on health is plain to see: in 1874, at the Alexandrovsky factory, there were 141 widows for every 23 widowers. That year, 60 boys were born and 64 adult men died; in 1873, 67 deaths for every 64 births. Among women, births outnumbered deaths. The factory had 1,098 men and 1236 women. Death came most often during heavy labor. Adults died mainly of consumption, children of fever and want. Few died of old age — few lived so long.  
@@ -74,18 +70,15 @@ In 1903, Alexander completed primary school. Testimony from the 1908 investigati
 ## Formation. The start of adulthood
 
 <p align="center">
-<img src="assets/images/testimony-1908.jpg" alt="Testimony, 1908" width="420"><br>
-<small>Testimony from the 1908 investigation into the distribution of revolutionary leaflets.</small>
+<img src="assets/images/testimony-1908.jpg" alt="" width="420">
 </p>
 
 <p align="center">
-<img src="assets/images/group-1912-1914.jpg" alt="Group photograph, 1912-1914" width="480"><br>
-<small>Group photograph, 1912-1914.</small>
+<img src="assets/images/group-1912-1914.jpg" alt="" width="480">
 </p>
 
 <p align="center">
-<img src="assets/images/lysva-bolsheviks-1917.jpg" alt="Lysva Bolsheviks, 1917" width="620"><br>
-<small>Bolsheviks of the Lysva Factory, 1917.</small>
+<img src="assets/images/lysva-bolsheviks-1917.jpg" alt="" width="620">
 </p>
 
 > I joined the factory’s Gas-Electric Workshop in August 1905. My father, a master of gas engines, arranged it.  
@@ -120,18 +113,15 @@ From the memoirs of P.I. Studitov-Parfenov (member of CPSU since 1914):
 ## Revolution and Civil War
 
 <p align="center">
-<img src="assets/images/beloborodov-9th-army.jpg" alt="Beloborodov, 9th Army" width="380"><br>
-<small>A.G. Beloborodov, member of the Revolutionary Military Council of the 9th Army.</small>
+<img src="assets/images/beloborodov-9th-army.jpg" alt="" width="380">
 </p>
 
 <p align="center">
-<img src="assets/images/group-1918.jpg" alt="Group photograph, 1918" width="460"><br>
-<small>Group photograph, 1918.</small>
+<img src="assets/images/group-1918.jpg" alt="" width="460">
 </p>
 
 <p align="center">
-<img src="assets/images/group-1917.jpg" alt="Group photograph, 1917" width="650"><br>
-<small>Group photograph, 1917.</small>
+<img src="assets/images/group-1917.jpg" alt="" width="650">
 </p>
 
 > After the dissolution of the Constituent Assembly, he worked in Yekaterinburg and was elected a member of the Regional Executive Committee by the III Regional Congress of Soviets of the Ural Region. In the Regional Executive Committee, he served first as Deputy Chairman, then as Chairman. After the Red Army retreated from the Urals, he worked first in Perm, then in Vyatka. He was elected a member of the Central Committee by the VIII Congress of the RCP. In April 1919, the Council of Defence dispatched him to the Southern Front, to the area of the Vyoshenskaya Uprising, as plenipotentiary. Returning from the front in July 1919, he was appointed Deputy Chief of the Political Directorate of the Revolutionary Military Council of the Republic. In October 1919, he was appointed a member of the Revolutionary Military Council of the IX Army of the South-Eastern (later Caucasian) Front.  
@@ -183,8 +173,7 @@ After the capture of Yekaterinburg by the troops of the Czechoslovak Legion, Bel
 ## Romanovs in Yekaterinburg
 
 <p align="center">
-<img src="assets/images/romanovs-handover.jpg" alt="Handover of the imperial family" width="650"><br>
-<small>The handover of the imperial family to the Ural Regional Soviet at a Yekaterinburg station. Painting.</small>
+<img src="assets/images/romanovs-handover.jpg" alt="" width="650">
 </p>
 
 As chairman of the Executive Committee of the Ural Regional Soviet, Alexander Georgievich Beloborodov played a central role in the fate of the last tsar, Nikolai II. On 9 April 1918, Beloborodov received a telegram signed by the Chairman of the Central Executive Committee, Yakov Mikhailovich Sverdlov, which was:
@@ -257,13 +246,11 @@ A copy of the telegraph text was lost at the Yekaterinburg telegraph office, and
 ## Socialist construction
 
 <p align="center">
-<img src="assets/images/beloborodov-1920s.jpg" alt="Beloborodov in the 1920s" width="420"><br>
-<small>A.G. Beloborodov in the 1920s.</small>
+<img src="assets/images/beloborodov-1920s.jpg" alt="" width="420">
 </p>
 
 <p align="center">
-<img src="assets/images/congress-delegates.jpg" alt="Congress delegates" width="650"><br>
-<small>Delegates to a Party Congress.</small>
+<img src="assets/images/congress-delegates.jpg" alt="" width="650">
 </p>
 
 In October 1921, A.G. Beloborodov was promoted: transferred to Moscow and appointed Deputy People's Commissar of Internal Affairs. On July 7, 1923, he became People's Commissar of Internal Affairs. This was the highest point in his career — but politics would soon block his path.
