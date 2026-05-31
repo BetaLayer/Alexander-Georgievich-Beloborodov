@@ -46,3 +46,22 @@ blockquote i {
 em, i {
  font-style: normal !important;
 }
+
+/* Заголовок страницы (имя) — крупно и по центру */
+.post-header,
+.post-title,
+.page-heading {
+ text-align: center !important;
+}
+.post-title {
+ margin-bottom: 0.6em !important;
+}
+
+/* Подписи к фотографиям */
+figure, .post-content p img {
+ max-width: 100%;
+}
+small {
+ color: #555 !important;
+ font-size: 14px;
+}

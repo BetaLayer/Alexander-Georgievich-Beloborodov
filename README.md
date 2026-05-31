@@ -1,3 +1,12 @@
+---
+layout: page
+title: Alexander Georgievich Beloborodov
+---
+
+<p align="center">
+<img src="assets/images/beloborodov-narkom-1927.jpg" alt="A.G. Beloborodov" width="600"><br>
+<small>A.G. Beloborodov, People's Commissar of Internal Affairs of the RSFSR, at his work desk. 1927.</small>
+</p>
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -6,6 +15,9 @@
 4. [Revolution and Civil War](#revolution-and-civil-war)
 5. [Romanovs in Yekaterinburg](#romanovs-in-yekaterinburg)
 6. [Socialist construction](#socialist-construction)
+7. [Behind Closed Doors](#behind-closed-doors)
+8. [Reading Circle](#reading-circle)
+9. [The End of Life: Investigation and Execution](#the-end-of-life-investigation-and-execution)
 
 
 ## Introduction
@@ -20,6 +32,21 @@ We express our great gratitude to our partners: the Documentation Centre of Publ
 
 
 ## Formation. Childhood
+
+<p align="center">
+<img src="assets/images/birth-register-1891.jpg" alt="Birth register, 1891" width="600"><br>
+<small>Record of A.G. Beloborodov's birth in the parish register, 1891.</small>
+</p>
+
+<p align="center">
+<img src="assets/images/alexandrovsky-factory.jpg" alt="Alexandrovsky Factory" width="600"><br>
+<small>The Alexandrovsky Factory, Beloborodov's birthplace.</small>
+</p>
+
+<p align="center">
+<img src="assets/images/beloborodov-youth.jpg" alt="Beloborodov in youth" width="360"><br>
+<small>A.G. Beloborodov in his youth.</small>
+</p>
 
 > I have already spoken of the damp mines and ore pits. The factory was somewhat better, yet still far from good. The toll on health is plain to see: in 1874, at the Alexandrovsky factory, there were 141 widows for every 23 widowers. That year, 60 boys were born and 64 adult men died; in 1873, 67 deaths for every 64 births. Among women, births outnumbered deaths. The factory had 1,098 men and 1236 women. Death came most often during heavy labor. Adults died mainly of consumption, children of fever and want. Few died of old age — few lived so long.  
 > *(V. I. Nemirovich-Danchenko, Kama and the Urals, 1890, pp. 367–368.)*
@@ -45,6 +72,21 @@ In 1903, Alexander completed primary school. Testimony from the 1908 investigati
 
 
 ## Formation. The start of adulthood
+
+<p align="center">
+<img src="assets/images/testimony-1908.jpg" alt="Testimony, 1908" width="420"><br>
+<small>Testimony from the 1908 investigation into the distribution of revolutionary leaflets.</small>
+</p>
+
+<p align="center">
+<img src="assets/images/group-1912-1914.jpg" alt="Group photograph, 1912-1914" width="480"><br>
+<small>Group photograph, 1912-1914.</small>
+</p>
+
+<p align="center">
+<img src="assets/images/lysva-bolsheviks-1917.jpg" alt="Lysva Bolsheviks, 1917" width="620"><br>
+<small>Bolsheviks of the Lysva Factory, 1917.</small>
+</p>
 
 > I joined the factory’s Gas-Electric Workshop in August 1905. My father, a master of gas engines, arranged it.  
 > I was not yet 14, so my father added a year to my age. It worked.  
@@ -76,6 +118,21 @@ From the memoirs of P.I. Studitov-Parfenov (member of CPSU since 1914):
 
 
 ## Revolution and Civil War
+
+<p align="center">
+<img src="assets/images/beloborodov-9th-army.jpg" alt="Beloborodov, 9th Army" width="380"><br>
+<small>A.G. Beloborodov, member of the Revolutionary Military Council of the 9th Army.</small>
+</p>
+
+<p align="center">
+<img src="assets/images/group-1918.jpg" alt="Group photograph, 1918" width="460"><br>
+<small>Group photograph, 1918.</small>
+</p>
+
+<p align="center">
+<img src="assets/images/group-1917.jpg" alt="Group photograph, 1917" width="650"><br>
+<small>Group photograph, 1917.</small>
+</p>
 
 > After the dissolution of the Constituent Assembly, he worked in Yekaterinburg and was elected a member of the Regional Executive Committee by the III Regional Congress of Soviets of the Ural Region. In the Regional Executive Committee, he served first as Deputy Chairman, then as Chairman. After the Red Army retreated from the Urals, he worked first in Perm, then in Vyatka. He was elected a member of the Central Committee by the VIII Congress of the RCP. In April 1919, the Council of Defence dispatched him to the Southern Front, to the area of the Vyoshenskaya Uprising, as plenipotentiary. Returning from the front in July 1919, he was appointed Deputy Chief of the Political Directorate of the Revolutionary Military Council of the Republic. In October 1919, he was appointed a member of the Revolutionary Military Council of the IX Army of the South-Eastern (later Caucasian) Front.  
 > Upon the entry of the IX Army into the Kuban, he was appointed a member of the Kuban Revolutionary Committee. In August 1920, he was appointed Deputy Chairman of the Revolutionary Council of the Caucasian Labour Army, then Chairman of the Regional Economic Council of the South-East. In October 1921, he was transferred to Moscow and then appointed Deputy People's Commissar of Internal Affairs. On July 7, 1923, he was appointed People's Commissar of Internal Affairs.  
@@ -124,6 +181,11 @@ After the capture of Yekaterinburg by the troops of the Czechoslovak Legion, Bel
 
 
 ## Romanovs in Yekaterinburg
+
+<p align="center">
+<img src="assets/images/romanovs-handover.jpg" alt="Handover of the imperial family" width="650"><br>
+<small>The handover of the imperial family to the Ural Regional Soviet at a Yekaterinburg station. Painting.</small>
+</p>
 
 As chairman of the Executive Committee of the Ural Regional Soviet, Alexander Georgievich Beloborodov played a central role in the fate of the last tsar, Nikolai II. On 9 April 1918, Beloborodov received a telegram signed by the Chairman of the Central Executive Committee, Yakov Mikhailovich Sverdlov, which was:
 
@@ -193,6 +255,16 @@ A copy of the telegraph text was lost at the Yekaterinburg telegraph office, and
 
 
 ## Socialist construction
+
+<p align="center">
+<img src="assets/images/beloborodov-1920s.jpg" alt="Beloborodov in the 1920s" width="420"><br>
+<small>A.G. Beloborodov in the 1920s.</small>
+</p>
+
+<p align="center">
+<img src="assets/images/congress-delegates.jpg" alt="Congress delegates" width="650"><br>
+<small>Delegates to a Party Congress.</small>
+</p>
 
 In October 1921, A.G. Beloborodov was promoted: transferred to Moscow and appointed Deputy People's Commissar of Internal Affairs. On July 7, 1923, he became People's Commissar of Internal Affairs. This was the highest point in his career — but politics would soon block his path.
 
@@ -266,3 +338,144 @@ After Trotsky was exiled to Turkey in 1929, there was no one left to reconcile t
 On May 8, 1930, the Party Collegium reinstated him as a party member — with a break in seniority from November 1927 to May 1930. In 1930, he was sent to Rostov-on-Don, where he worked in the USSR Procurement Committee. In his last years before arrest, he was Deputy Representative for the Azov-Black Sea Territory. More about this period can be found in the chapter "Behind Closed Doors".
 
 In 1932, Beloborodov began writing his memoirs — about his childhood, work at the Nadezhdinsk Factory, and the Romanovs in Yekaterinburg. The notebook was saved by his daughter and later transferred to the Sverdlovsk Regional Museum of Local Lore. Excerpts are presented in several sections of the site.
+
+
+## Behind Closed Doors
+
+Throughout many years, through ups and downs, Alexander Georgievich was always accompanied by his main comrade-in-arms, wife, and friend — Franciska Viktorovna Yablonskaya. They met on the fronts of the Civil War, where she served as an army political worker.
+
+Shared views and dreams brought them together. They married, and on May 30, 1921, their only daughter, Alexandra, was born.
+
+Franciska Viktorovna wasn't just a homemaker. She was also a comrade-in-arms, as active in the Left Opposition as her husband. She was friends with Trotsky's family, especially his wife Natalia Sedova, and often visited them. She kept supporting them openly even during times of disgrace and persecution.
+
+From the memoirs of N.I. Sedova (Trotsky's wife):
+
+> Past midnight we went to sleep. After the anxieties of the previous days, we slept until 11 a.m. No phone calls. Everything was quiet. We had just finished breakfast when the doorbell rang — F.V. Beloborodova arrived… then M.M. Ioffe. Another ring — and the apartment filled with GPU agents, both plainclothes and uniformed. They handed L.D. an arrest warrant and ordered him to leave immediately for Alma-Ata under guard.
+>
+> Seeing he was wearing house slippers, they found his boots and put them on him. They found his fur coat and hat and put them on him. L.D. refused to go. So they picked him up. We hurried after them. I threw on a coat and boots… The door slammed shut behind me. There was noise outside. Shouting, I stopped the convoy carrying L.D. down the stairs and demanded that the sons be let through: my older son had to go with us into exile. The door swung open, the sons rushed out, and so did our two guests, Beloborodova and Ioffe. They all forced their way out. Seryozha used his athlete's strength. Going down the stairs, Leva rang every doorbell and shouted: "They're taking Comrade Trotsky!" Frightened faces appeared in doorways and on the stairs. Only top Soviet officials live in this building. The car was packed tight. Seryozha's legs barely fit. Beloborodova was with us too. We drove through the streets of Moscow.
+>
+> *(Chapter XLIII. Exile // Trotsky, L.D. My Life: An Attempt at an Autobiography. — Moscow: Panorama, 1991. p. 514.)*
+
+When A.G. Beloborodov was sent into exile, Franciska Viktorovna stayed true to their shared beliefs. She never thought of leaving him. Whenever she could, she and her daughter Alexandra visited him in Ust-Kulom. And when he was sent to Rostov in 1930, she followed him without hesitation.
+
+In 1936, a few days after Alexander Georgievich was arrested, Franciska Viktorovna was also arrested. She was executed on April 15, 1938, two months after her husband's death.
+
+After her parents died, Alexandra was taken in by her aunt Lyubov, Franciska's sister. Asya (as she was called) was allowed to live and study in Moscow. She graduated from the First Moscow Medical Institute, but right after graduation she was sent to Sverdlovsk.
+
+Alexandra Alexandrovna dedicated her life to medicine. She worked as chief physician of the Railway Sanitary-Epidemiological Station and as head of the Railway District Health Department. At Central Hospital No. 3, she ran the therapeutic shop-floor service. From 1975 to 1983, she was deputy chief physician for outpatient care at Hospital No. 32. From 1983 to 1998, she headed the medical statistics office at City Central Hospital No. 3.
+
+Colleagues at City Central Hospital No. 3 remembered her as a strong-willed person, fully devoted to her work:
+
+> "Alexandra Alexandrovna had a tough but fair character," they said. "She was a born leader and an unquestioned authority, not just in statistics."
+
+They also remembered her as a great lover of art and literature, especially the classics. She worked at the hospital for 23 years and retired at age 79.
+
+Alexandra Alexandrovna also made a significant contribution to the Sverdlovsk Regional Museum of Local Lore. Between 1988 and 2003, she preserved and donated more than 70 items, including unique belongings that had belonged to her parents.
+
+From Alexandra Beloborodova-Yablonskaya's memoirs about her family:
+
+> I don't remember much about our life in Moscow when my father worked at the People's Commissariat of Internal Affairs (I was 2–6 years old). I remember we lived at 3 Granovskogo Street, apt. 62. I accidentally remember the phone number: 19939.
+>
+> My parents were very busy. Father spent most of his time at work. His few free hours he gave to me — taking me to the parade on Red Square, sometimes for walks, buying toys and books.
+>
+> I remember father's study had large bookcases and many books, which I now understand were on political topics. We lived very modestly. The party maximum was 225 rubles — the norm for communists back then.
+>
+> I recall that guests would sometimes come over, but I don't remember friends well. Vivid personalities like Ivan Skvortsov-Stepanov, Ivan Smilga, and Artashes Khalatov stayed in my memory.
+>
+> Father didn't have a formal completed education. His deep knowledge came from persistent effort and self-education throughout his life. He was a well-rounded man.
+>
+> I remember the Rostov-on-Don period better — 1931–1936. Father worked a lot, often bringing papers home in his briefcase and working in the evenings. He kept studying — higher mathematics and English.
+>
+> Thanks to his broad outlook, he was always a demanding but kind mentor to me in school subjects, especially literature. I remember his passion for Pushkin. He not only knew Pushkin's works perfectly but also the critical literature of that time. He highly valued Pasternak.
+>
+> My parents were strict with me about discipline, diligence, and hard work. All my moral foundations were laid in childhood, because after 15 I lived almost independently. Father was always impeccably honest. He never used his position for personal gain. He didn't care about fancy living conditions.
+>
+> Mother was more sociable and open than father. He was somewhat reserved and stern. The family atmosphere was friendly, respectful, and harmonious. I was never punished.
+>
+> Raising me in the spirit of Soviet patriotism, my parents were models of devotion to the party cause. I remember father carefully kept a personal note from V.I. Lenin — a small pencil-written scrap of paper. I don't remember exactly what it said; it was a short business note about discussing an important issue.
+>
+> In Rostov, Moscow theaters and famous performers often toured. My parents took me to shows and concerts. I remember creative evenings of Mikhail Koltsov and Mikhail Zoshchenko, concerts by L. Oistrakh, E. Petri, and other musicians.
+>
+> Among my relatives, I want to tell about my mother's sisters. An outstanding personality was Lyubov Viktorovna Yablonskaya — a famous metallurgical engineer. She helped build and run metallurgical plants in Kerch and Zhdanov, then worked at the People's Commissariat of Ferrous Metallurgy, and later at the journal "Stal". She was energetic, strong-willed, erudite, and passionate about her work. She was awarded four orders, including the Order of Lenin. Her only son, Lev — my age and close friend — volunteered for the front and died in the first months of the war.
+>
+> My mother's second sister, Polina Viktorovna Yablonskaya (born 1905), worked as an economist. She was kind-hearted and responsive. I had a very warm relationship with her.
+>
+> In 1936, my parents became victims of lawlessness and tyranny, but for me they will always be models of Leninist Bolsheviks, selflessly devoted to the cause of the revolution. In 1958, they were posthumously rehabilitated, and in October 1962, their party membership rights were posthumously restored.
+>
+> The changes in public opinion in our country — as historical truth about true revolutionaries and active workers of the first years of Soviet power is being restored — bring me great moral satisfaction.
+>
+> *(Beloborodov, Alexander Georgievich. 1923–1927 // Nekrasov, V.F. Thirteen Iron Commissars. — Moscow: Versty, State Firm Poligrafresursy, 1995. pp. 122–125.)*
+
+Alexandra Alexandrovna Beloborodova-Yablonskaya died on January 21, 2005. She is buried in the Northern Cemetery of Yekaterinburg.
+
+
+## Reading Circle
+
+Books from childhood played a large role in the formation of Alexander Georgievich Beloborodov's personality. Thanks to his love of reading, from a young age he "stood out among other comrades because of his broad intellectual horizons." After finishing Alexandrovskoye Primary School in 1903, he did not stop self-education even while in Perm prison:
+
+> In prison, he read a lot and engaged in self-education, somewhat supplementing the knowledge that primary school had given.
+
+After his release, Alexander continued studying the works of the classics of social-democratic thought. Among them were Marx, Engels, Lassalle, Kautsky, and others. To supplement his knowledge, besides books, more educated comrades who had gymnasium or university education also helped him:
+
+> "Alexander Georgievich lived in difficult conditions, in a damp little room, devoted much time to self-education, read a lot. After all, he had received no education at that time. He often came to A.A. Kuzmin and stayed for a long time, conversing with my husband. Alexander Alexandrovich never regretted the time spent on these conversations, patiently discussing with him questions of current political life."
+
+Beloborodov's daughter, Alexandra Alexandrovna, recalled that her father retained a lively interest and thirst for new knowledge until the end of his days:
+
+> My father did not have a formal education; his profound knowledge was the result of persistent work, self-education throughout his life; he was a comprehensively educated person.
+>
+> …Father worked very hard, often brought papers in a briefcase, worked in the evening hours. He continued self-education — studied higher mathematics and the English language.
+>
+> Thanks to his broad horizons, he was always a demanding and benevolent mentor to me in all matters concerning school subjects. He was especially interested in literature. I remember very well his admiration for Pushkin. He knew not only his works perfectly but also the extensive critical literature of that time. He highly valued Pasternak.
+
+For many years, Alexander Georgievich collected books for his library. These were mostly works on history and politics, as well as fiction:
+
+> I remember large bookcases standing in my father's study; there were many books on political issues, as I now understand.
+
+Part of them, miraculously preserved by Alexander Beloborodov's daughter — Alexandra Alexandrovna — was transferred to the Sverdlovsk Regional Museum of Local Lore.
+
+
+## The End of Life: Investigation and Execution
+
+In 1936, Alexander Beloborodov's life in Rostov-on-Don changed significantly. On August 11, the bureau of the Kirov District Committee of the VKP(b) excluded him from party membership on political charges.
+
+The exclusion was based on his earlier participation in the Left Opposition. The bureau of the Kirov District Committee of the VKP(b) stated in its resolution of August 11, 1936:
+
+> Beloborodov — an active Trotskyist and organizer of counter-revolutionary Trotskyist groupings.
+>
+> In 1924, he signed the "45" statement. In 1926–1927, he signed the "82" platform.
+>
+> In 1927, he belonged to the leadership of the Trotskyist-Zinovievist opposition bloc. He actively spoke in defense of the Trotskyist-Zinovievist opposition.
+>
+> As an active organizer, he was excluded from the ranks of the VKP(b). He was reinstated with a break in party seniority from November 1927 to May 1930 after submitting a statement of refusal.
+>
+> Beloborodov did not speak and did not help the party to expose enemies — Trotskyists and Zinovievists — during discussions of materials concerning the murder of Comrade Kirov at party meetings. He actively participated in counter-revolutionary work against the party together with them. He remained silent in party work all the time, lived covertly, and pursued a double-dealing policy toward the party.
+>
+> BELOBORODOV, as an unrepentant Trotskyist double-dealer, is to be EXPELLED from the ranks of the VKP(b).
+
+After receiving such a characterization, Alexander Beloborodov did not remain free for long, and already on August 15, 1936, he was arrested by the NKVD.
+
+During six months of interrogations and confrontations, Alexander Georgievich refused to admit guilt. This did not prevent investigators from preparing materials for future charges. For example, in the summary of N.I. Yezhov's report "On anti-Soviet Trotskyist and Right organisations," presented at the December Plenum of the Central Committee of the VKP(b) in 1936, we find accusations against the former People's Commissar of terrorist activity:
+
+> About 200 members of a Trotskyist organisation headed by Beloborodov, Glebov-Avilov, Gordon, and others were arrested in the Azov-Black Sea region. Similarly to the West Siberian organisation, this organisation carried out significant subversive work at the most important industrial enterprises of the region, including defense enterprises. The organisation actively prepared a terrorist act against Comrade Stalin. It planned to carry it out during a regular vacation in Sochi.
+>
+> …The following testimonies of the most active participants of terrorist groups provide sufficient evidence of how serious the terrorist activity of the reserve center was.
+>
+> For example, the terrorist Dorofeev, arrested in the Azov-Black Sea region, gives the following testimony about the preparation of the murder of Comrade Stalin:
+>
+> "…At the beginning of 1935, after the murder of Kirov, Beloborodov cursed Dukat, saying that he had missed the opportunity to kill Stalin in Sochi. He told me that there were enough people, the opportunity was evident, but the matter was progressing slowly.
+>
+> Beloborodov assigned great importance to the murder of Kirov. He said that the very fact of a successful terrorist act would increase the number of supporters of terror and raise the activity of terroristically inclined elements.
+>
+> In 1935, the preparation of the murder of Stalin was carried out very actively by the organisation. In the summer, Dukat went to Sochi in order to track Stalin's route. If necessary, he was to summon militants from Rostov to commit the terrorist act.
+>
+> Before Dukat's departure, I met with him at Beloborodov's apartment, where Dukat, Yablonskaya, and I were present. Dukat told me that he had in Sochi a group of 5–7 persons from among the local residents. They were watching Stalin."
+
+Investigators obtained detailed testimonies from Beloborodov only in 1937, in which he admitted guilt in counter-revolutionary Trotskyist terrorist activity. All three interrogations were typed on a typewriter without stenographic records. Kogan and Osinin conducted these interrogations. In 1940, they were sentenced to execution by the Military Collegium of the USSR Supreme Court for counter-revolutionary wrecking activity and falsification of investigative cases. A.G. Beloborodov was not acquainted with the materials of the preliminary investigation.
+
+On May 26, 1937, N.I. Yezhov sent I.V. Stalin a copy of Beloborodov's statement about persons sharing Trotskyist views. Stalin was dissatisfied with these testimonies and left a note on the first page:
+
+> To Yezhov. One might think that prison for Beloborodov has become a platform for delivering speeches and statements about all sorts of persons. But not about himself. Isn't it time to pressure this gentleman and force him to tell about his dirty deeds? Where is he sitting — in prison or a hotel?
+
+On February 8, 1938, Alexander Beloborodov was sentenced to capital punishment — execution by the Military Collegium of the Supreme Court. The sentence was carried out the next day. On April 15, 1938, Beloborodov's wife — Franciska Viktorovna Yablonskaya — was also executed.
+
+Twenty years later, in 1958, Alexander Georgievich Beloborodov was posthumously rehabilitated by the decision of the Military Collegium of the USSR Supreme Court. The case against him was discontinued for lack of corpus delicti. In 1962, he was posthumously reinstated in the party. The same decision was adopted regarding his wife.
