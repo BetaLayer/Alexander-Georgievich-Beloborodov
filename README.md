@@ -1,3 +1,14 @@
+<style>
+  blockquote {
+    color: #333333 !important; /* Темно-серый, почти черный цвет текста (вместо бледного) */
+    opacity: 1 !important;     /* Убираем возможную прозрачность */
+    border-left: 5px solid #0366d6; /* Делаем левую полоску ярче (синяя, можно поменять цвет) */
+    background-color: #f6f8fa; /* Добавляем легкий серый фон для выделения */
+    padding: 10px 20px;        /* Отступы внутри цитаты */
+    margin: 15px 0;            /* Отступы снаружи */
+    font-style: normal;        /* Если не хотите, чтобы текст был курсивом, оставьте normal. Если нужен курсив - напишите italic */
+  }
+</style>
 
 # Alexander Georgievich Beloborodov
 
