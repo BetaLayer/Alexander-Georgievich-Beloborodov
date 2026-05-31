@@ -1,3 +1,48 @@
+---
+layout: default
+---
+
+<style>
+/* Задаем везде шрифт Georgia и строго черный цвет */
+body, .markdown-body, p, div, span, li, td, th, pre, code, a, h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, "Times New Roman", Times, serif !important;
+  color: #000000 !important;
+}
+
+/* Размеры основного текста */
+p, li {
+  font-size: 16px !important;
+  line-height: 1.6 !important;
+}
+
+/* Настройки заголовков (они больше текста) */
+h1 { font-size: 32px !important; margin-bottom: 20px !important; }
+h2 { font-size: 26px !important; margin-top: 40px !important; margin-bottom: 20px !important; }
+h3 { font-size: 22px !important; margin-top: 30px !important; }
+
+/* УБИВАЕМ КУРСИВ (нигде не будет наклонного текста) */
+em, i, blockquote, blockquote p {
+  font-style: normal !important;
+}
+
+/* ВНЕШНИЙ ВИД ЦИТАТЫ (Черная плашка, без фона) */
+blockquote {
+  border-left: 5px solid #000000 !important;
+  background-color: transparent !important;
+  padding: 5px 20px !important;
+  margin: 20px 0 !important;
+}
+
+/* ТЕКСТ ВНУТРИ ЦИТАТЫ (Черный, прямой, размер как у обычного текста) */
+blockquote p {
+  color: #000000 !important;
+  font-family: Georgia, "Times New Roman", Times, serif !important;
+  font-size: 16px !important; 
+  font-style: normal !important;
+  margin: 0 !important;
+}
+</style>
+
 # Alexander Georgievich Beloborodov: Biography and Archives
 
 ## Table of Contents
