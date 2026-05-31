@@ -1,7 +1,6 @@
 ---
 ---
 
-// Переопределение переменных Minima
 $base-font-family: Georgia, "Times New Roman", Times, serif;
 $base-font-size: 16px;
 $text-color: #000000;
@@ -12,57 +11,49 @@ $link-hover-color: #000000;
 
 @import "{{ site.theme }}";
 
-/* =========================================
-   ГЛОБАЛЬНЫЕ НАСТРОЙКИ (Всё чёрное и Georgia)
-   ========================================= */
 body, p, div, span, li, td, th, pre, code, a, h1, h2, h3, h4, h5, h6 {
   font-family: Georgia, "Times New Roman", Times, serif !important;
   color: #000000 !important;
 }
 
-/* Обычный текст */
 p, li {
   font-size: 16px !important;
   line-height: 1.6 !important;
 }
 
-/* =========================================
-   ЗАГОЛОВКИ (шрифт больше)
-   ========================================= */
-h1 { font-size: 32px !important; }
-h2 { font-size: 26px !important; margin-top: 40px !important; margin-bottom: 20px !important;}
-h3 { font-size: 22px !important; margin-top: 30px !important; }
+h1 {
+  font-size: 32px !important;
+}
 
-/* =========================================
-   НИКАКОГО КУРСИВА
-   ========================================= */
-/* Убиваем курсив глобально, включая теги выделения из Markdown */
+h2 {
+  font-size: 26px !important;
+  margin-top: 40px !important;
+  margin-bottom: 20px !important;
+}
+
+h3 {
+  font-size: 22px !important;
+  margin-top: 30px !important;
+}
+
 em, i, blockquote {
   font-style: normal !important;
 }
 
-/* =========================================
-   ЦИТАТЫ
-   ========================================= */
 blockquote {
-  border-left: 5px solid #000000 !important; /* Черная плашка */
-  background: transparent !important;        /* Без фона */
+  border-left: 5px solid #000000 !important;
+  background-color: transparent !important;
   padding: 5px 20px !important;
   margin: 20px 0 !important;
 }
 
-/* Насильно красим текст внутри цитаты в черный, убираем курсив и ровняем размер */
 blockquote p, blockquote em, blockquote i {
   color: #000000 !important;
-  font-style: normal !important; /* Гарантия отсутствия курсива */
-  font-size: 16px !important;    /* Тот же размер, что и у основного текста */
+  font-style: normal !important;
+  font-size: 16px !important;
   line-height: 1.6 !important;
 }
 
-/* =========================================
-   ОСТАЛЬНОЕ
-   ========================================= */
-/* Ссылки */
 a, a:visited, a:hover {
   text-decoration: underline !important;
   text-underline-offset: 3px !important;
@@ -73,5 +64,14 @@ code, pre {
   color: #000000 !important;
 }
 
-table, th, td { border-color: #cccccc !important; }
-th { background-color: #eeeeee
+table, th, td {
+  border-color: #cccccc !important;
+}
+
+th {
+  background-color: #eeeeee !important;
+}
+
+hr {
+  border-top: 1px solid #000000 !important;
+}
